@@ -25,8 +25,6 @@
 Просмотр события + редактирование описания
 ![](mockups/Calendar-HW-04.png)
 
-Поиск:
-![](mockups/Calendar-HW-07.png)
 
 
 
